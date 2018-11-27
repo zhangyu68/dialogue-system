@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="实验室">
+    <serverData>
+      <paths name="实验室">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/wangqn" local="D:/code/pycode/connectFuWu" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

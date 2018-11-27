@@ -1,0 +1,211 @@
+1 hi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 sure i want to know how to connect wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SILENCE>	Is the solution helpful?
+5 yes	Happy to help, do you have any other questions?
+6 no thanks	you are welcome
+
+1 good morning	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to connect wifi	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 how to connect wifi	Are you referring to this question <sub_intent> ?
+5 yes	[Answer]
+6 ok helpful	Happy to help, do you have any other questions?
+7 no	bye
+
+1 hello	Hi! I'm Moli, your virtual agent. How can I help you?
+2 connect wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SILENCE>	Is the solution helpful?
+5 no	I'm sorry,you can transfer a agent
+6 ok thanks	you are welcome
+
+1 hey	Hi! I'm Moli, your virtual agent. How can I help you?
+2 bye	ok,you can ask me when you need
+
+1 hello	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to connect wifi 	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SILENCE>	Is the solution helpful?
+5 no	I'm sorry,you can transfer a agent
+6 ok thanks	you are welcome
+
+1 how to connect wifi	Are you referring to this question <sub_intent> ?
+2 yes	[Answer]
+3 thank you	you are welcome
+
+1 how to connect wifi	Are you referring to this question <sub_intent> ?
+2 sure	[Answer]
+3 thanks	you are welcome
+4 <SILENCE>	Is the solution helpful?
+5 yes it is great	Happy to help, do you have any other questions?
+6 no bye	bye
+
+1 hi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 sure how to connect wifi	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 ok i want to know how to connect wifi ?	Are you referring to this question <sub_intent> ?
+5 yes	[Answer]
+4 <SILENCE>	Is the solution helpful?
+5 no	I'm sorry,you can transfer a agent
+
+1 hello	Hi! I'm Moli, your virtual agent. How can I help you?
+2 sure how to connect wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SILENCE>	Is the solution helpful?
+5 yes	Happy to help, do you have any other questions?
+
+1 hello	Hi! I'm Moli, your virtual agent. How can I help you?
+2 i want to know how to connect wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 ok	Is the solution helpful?
+5 yes thanks	you are welcome
+6 <SLIENCE>	Happy to help, do you have any other questions?
+7 no	ok,you can ask me when you need
+
+1 how to turnoff wifi	Are you referring to this question <sub_intent> ?
+2 yes	[Answer]
+3 thanks	you are welcome
+4 bye	bye
+
+1 how to turnoff wifi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 hi	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 how to turn off wifi	Are you referring to this question <sub_intent> ?
+5 yes	[Answer]
+6 bye	bye
+
+1 how to turnoff wifi	Are you referring to this question <sub_intent> ?
+2 no	can you speak clearly?
+3 how to turnoff wifi	Are you referring to this question <sub_intent> ?
+5 yes	[Answer]
+6 <SLIENCE>	Is the solution helpful?
+7 thanks	Happy to help, do you have any other questions?
+8 bye	bye
+
+1 how to turn off wifi	Are you referring to this question <sub_intent> ?
+2 no	can you speak clearly?
+3 how to turn off wifi	Are you referring to this question <sub_intent> ?
+4 yes	[Answer]
+5 <SLIENCE>	Is the solution helpful?
+6 thanks	Happy to help, do you have any other questions?
+7 no	ok,you can ask me when you need
+8 bye	bye
+
+1 hello	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to turnoff wifi	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 how to connect wifi	Are you referring to this question <sub_intent> ?
+5 yes	[Answer]
+6 ok,thank you	you are welcome
+
+1 hey moli	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to turnoff wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 yes how to connect wifi	Are you referring to this question <sub_intent> ?
+6 sure	[Answer]
+7 bye	bye
+
+1 hey	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to connect wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 yes thanks	you are welcome
+6 bye	bye
+
+1 hey moli	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to turn off wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 yes,how to connect wifi	Are you referring to this question <sub_intent> ?
+6 no	Are you referring to this question <sub_intent> ?
+7 no	Are you referring to this question <sub_intent> ?
+8 no	I'm sorry,you can transfer a agent
+
+1 hello,how to connect wifi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 <SLIENCE>	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 perfect	Happy to help, do you have any other questions?
+6 no,bye	bye
+
+1 hello how to connect wifi	Are you referring to this question <sub_intent> ?
+2 yes	[Answer]
+3 <SLIENCE>	Is the solution helpful?
+4 perfect	Happy to help, do you have any other questions?
+6 i want to know how to connect wifi	Are you referring to this question <sub_intent> ?
+7 no	can you speak clearly?
+8 no	I'm sorry,you can transfer a agent
+
+1 hey xiaomo	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to set wifi	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 no	I'm sorry,you can transfer a agent
+5 thanks	you are welcome
+
+1 hello how to turnoff wifi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 <SLIENCE>	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 perfect	Happy to help, do you have any other questions?
+6 i want to know how to turn off wifi	Are you referring to this question <sub_intent> ?
+7 no	can you speak clearly?
+8 no	I'm sorry,you can transfer a agent
+
+1 hello how to turnoff wifi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 <SLIENCE>	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 perfect	Happy to help, do you have any other questions?
+6 i want to know how to turnoff wifi	Are you referring to this question <sub_intent> ?
+7 yes	[Answer]
+8 bye	bye
+
+1 hello moli how to connect wifi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 <SLIENCE>	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 yes	Happy to help, do you have any other questions?
+6 bye	bye
+
+1 hello how to connect wifi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 <SLIENCE>	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 <SLIENCE>	can you speak clearly?
+5 how to connect wifi	Are you referring to this question <sub_intent> ?
+6 yes	[Answer]
+7 you are right	Happy to help, do you have any other questions?
+7 bye	bye
+
+1 hello moli how to connect wifi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 <SLIENCE>	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 <SLIENCE>	can you speak clearly?
+5 how to connect wifi	Are you referring to this question <sub_intent> ?
+6 yes	[Answer]
+7 you are awesome	Happy to help, do you have any other questions?
+8 no bye	bye
+
+1 can you help me	Hi! I'm Moli, your virtual agent. How can I help you?
+2 how to connect wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 you are awesome	Happy to help, do you have any other questions?
+5 yes, how to turn off wifi	Are you referring to this question <sub_intent> ?
+6 yes	[Answer]
+7<SLIENCE>	 Is the solution helpful?
+8 yes bye	bye
+
+1 yeah	Hi! I'm Moli, your virtual agent. How can I help you?
+2 can you tell me how to connect wifi	Are you referring to this question <sub_intent> ?
+3 yes	[Answer]
+4 <SLIENCE>	Is the solution helpful?
+5 you are right	Happy to help, do you have any other questions?
+6 bye	bye
+
+1 hi	Hi! I'm Moli, your virtual agent. How can I help you?
+2 you know how to connect wifi	Are you referring to this question <sub_intent> ?
+3 no	can you speak clearly?
+4 turn off wifi	Are you referring to this question <sub_intent> ?
+5 yes	[Answer]
+6 bye	bye
